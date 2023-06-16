@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="public/mybills.png"/> 
-</h1>
+
+![mybills](https://github.com/tiagofmelo/ppads-2023s1/assets/78428504/6d61ae9b-4061-4b9a-bc3f-6dc856b93aac)
  
 ## 🖥️ Tecnologias Usadas
  - [ReactJS](https://reactjs.org/)
